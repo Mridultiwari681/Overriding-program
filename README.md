@@ -29,7 +29,7 @@ class Main {
         a.sound();
     }
 }
-
+``` 
 ## Output
 
 Dog barks
